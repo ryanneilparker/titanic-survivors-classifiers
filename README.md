@@ -11,7 +11,7 @@ Given a labelled dataset of features about passengers aboard the titanic and whe
 1. We will firstly inspect the data and determine which features are important to include in our models.
 2. We will then engineer the selected features such that they are in a form convenient for modelling.
 3. We will then fit and evaluate a number of models.
-4. Finally, we will compare the accuracy of the various models and select the best performing model for submission.
+4. Finally, we will compare the accuracy of the various models and select the best performing model.
 
 ### Modelling
 
